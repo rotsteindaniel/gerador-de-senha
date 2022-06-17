@@ -1,2 +1,2 @@
 # gerador-de-senha
-gerador de senha / ainda em andamento o projeto
+gerador de senhas aleatórias
